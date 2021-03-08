@@ -1,0 +1,14 @@
+{
+  "name": "auto-imp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "u": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  }
+}
